@@ -1,0 +1,32 @@
+.login-btn {
+  
+    width: 100%;
+    font-size: 1.1rem;
+    border-color: #9b3c32;
+    outline: #81322A;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #81322A; 
+    color: #FFFFFF; 
+    border-color: #C45E4C; 
+}
+
+
+.Terms{
+    text-decoration: none;
+    color:#C45E4C;
+
+}
+
+.Privacy{
+    text-decoration: none;
+    color:#C45E4C;
+
+}
+
+.loginLink{
+    text-decoration: none;
+    color: rgb(120, 120, 211);
+}

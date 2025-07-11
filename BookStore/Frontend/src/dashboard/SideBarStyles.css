@@ -1,0 +1,12 @@
+
+.custom-logo img {
+    border-radius: 50%;
+    width: 15%; 
+    height: auto;
+  }
+
+.custom-logo{
+  margin-top: 20%;
+  margin-left: 20%;
+}
+  
